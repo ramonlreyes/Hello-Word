@@ -10,9 +10,9 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.2",
+    "mongodb": "^3.7.4",
     "nodemon": "^1.19.4"
   },
   "devDependencies": {
@@ -20,5 +20,15 @@
     "@babel/core": "^7.26.0",
     "@babel/preset-env": "^7.26.0",
     "@babel/preset-react": "^7.26.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramonlreyes/Hello-Word.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ramonlreyes/Hello-Word/issues"
+  },
+  "homepage": "https://github.com/ramonlreyes/Hello-Word#readme",
+  "description": ""
 }

@@ -6,6 +6,7 @@
     "start": "nodemon -w server server/server.js",
     "compile": "babel src --out-dir public",
     "watch": "babel src --out-dir public --watch --verbose",
+    "dev": "npm run watch & npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
